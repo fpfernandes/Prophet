@@ -43,8 +43,6 @@ On Windows, you can open Chrome with:
 start chrome.exe --remote-debugging-port=9222 --user-data-dir=".\user_data"
 ```
 
-> The `user_data` folder is used to preserve the browser profile and simplify execution with persistent login.
-
 ## Running the tests
 
 After starting the browser, run:
